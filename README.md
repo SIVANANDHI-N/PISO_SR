@@ -47,7 +47,7 @@ end
 
 endmodule
 # output
-![Uploading image.png…]()
+![image](https://github.com/SIVANANDHI-N/PISO_SR/assets/162731951/863ae810-0784-48d3-bd7e-5f8e4adf9a8b)
 
 # result
 thus PISO_SR is succesfully completed using vivado
